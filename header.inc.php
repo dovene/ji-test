@@ -13,11 +13,13 @@
             <div class="col-md-2">Live Chat With Us</div>
             <div class="col-md-4"></div>
             <div class="col-md-2">My Account</div>
-            <div class="col-md-1">My Cart</div>
+            <div class="col-md-1">
+                <a href="draft_shoppingCart.php" style="text-decoration: none; color: inherit;">My Cart</a>
+            </div>
         </div>
         <div class="row row2">
             <div class="col-md-4">
-                <img src="pack/ressources/img-01.png" alt="Logo Softmarket" >
+                <img src="pack/ressources/img-01.png" alt="Logo Softmarket">
             </div>
             <div class="col-md-1"></div>
             <div class="col-md-1">OFFICE</div>
@@ -27,7 +29,7 @@
             <div class="col-md-1">UTILITIES</div>
             <div class="col-md-1">GAMES</div>
             <div class="col-md-1">
-                <img src="pack/ressources/img-02.png" alt="Recherche" >
+                <img src="pack/ressources/img-02.png" alt="Recherche">
             </div>
         </div>
     </div>
